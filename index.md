@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Orestis' Website
+
+Hi! Welcome to my site, this is my awesome playlsit.
 
 <iframe src="https://open.spotify.com/embed/playlist/1s1yxY3Yaj1Ea683ABSXrK" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
@@ -9,7 +11,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Orestis' Website
+# 
 ## this is my spotify 
 
 ### Header 3
