@@ -1,8 +1,6 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/orests1/website/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<iframe src="https://open.spotify.com/embed/playlist/1s1yxY3Yaj1Ea683ABSXrK" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 ### Markdown
 
@@ -13,7 +11,7 @@ Syntax highlighted code block
 
 # Orestis' Website
 ## this is my spotify 
-<iframe src="https://open.spotify.com/embed/playlist/1s1yxY3Yaj1Ea683ABSXrK" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
 ### Header 3
 
 - Bulleted
